@@ -1,0 +1,26 @@
+.sapnTag{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  text-align: center;
+  margin-top: 250px;
+  font-size: 60px;
+
+}
+button{
+  background-color: rgb(234, 9, 9);
+  color: white;
+  border: none;
+  font-size: 30px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top:10px ;
+  padding-bottom:10px ;
+}
+span{
+  font-size: 35px;
+  padding: 10px;
+}
